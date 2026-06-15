@@ -8,3 +8,6 @@
 - SQL / Bancos de Dados Relacionais
 - Python
 - Git & GitHub
+## 🛠️ Linguagens e Tecnologias
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
